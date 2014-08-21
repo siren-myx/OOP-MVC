@@ -1,3 +1,3 @@
-OOD-MVC
+OOP-MVC
 =======
 Module View Controler (java) 
