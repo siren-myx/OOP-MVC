@@ -1,3 +1,3 @@
 OOP-MVC
 =======
-Module View Controler (java) 
+Module View Controler (java) build with ObjectEditor.
